@@ -15,7 +15,7 @@ const SingleItem = ({ current, addToCart }) => {
       <div className={styles.singleItem__details}>
         <p className={styles.details__title}>{current.title}</p>
         <p className={styles.details__description}>{current.description}</p>
-        <p className={styles.details__price}>$ {current.price}</p>
+        <p className={styles.details__price}>Rs. {current.price}</p>
 
         <button
           onClick={() => addToCart(current.id)}

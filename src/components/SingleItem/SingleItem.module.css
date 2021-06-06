@@ -33,7 +33,7 @@
 .details__addBtn {
   width: 45%;
   padding: 10px 17px;
-  background: var(--secondary-color);
+  background: rgb(162, 183, 240);
   color: var(--light-color);
   border: 1px solid var(--secondary-color);
   border-radius: 10px;

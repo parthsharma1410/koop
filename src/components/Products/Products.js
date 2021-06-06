@@ -5,10 +5,12 @@ import styles from "./Products.module.css";
 import { connect } from "react-redux";
 
 import Product from "./Product/Product";
+import Cart from "../Cart/Cart";
 
 const Products = ({ products }) => {
   return (
     <div className={styles.products}>
+      {Cart.totalPrice}
       {products.map((product) => (
         <Product key={product.id} product={product} />
       ))}

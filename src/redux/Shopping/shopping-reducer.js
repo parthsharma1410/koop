@@ -4,7 +4,7 @@ const INITIAL_STATE = {
   products: [
     {
       id: 1,
-      title: "This is the COOLEST Cube Ever",
+      title: "Rubix Cube 3x3",
       description:
         "This cube will keep you busy the entire day and it is very fun to play with",
       price: 15.0,
@@ -22,7 +22,7 @@ const INITIAL_STATE = {
     },
     {
       id: 3,
-      title: "Books That CHANGED My Life",
+      title: "Career Motivation: set of 8 books",
       description:
         "These books will keep you busy all throughout the entire lockdown and give you some great advise from famous people",
       price: 150.0,

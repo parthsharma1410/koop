@@ -21,7 +21,7 @@ const Product = ({ product, addToCart, loadCurrentItem }) => {
       <div className={styles.product__details}>
         <p className={styles.details__title}>{product.title}</p>
         <p className={styles.details__desc}>{product.description}</p>
-        <p className={styles.details__price}>$ {product.price}</p>
+        <p className={styles.details__price}>Rs. {product.price}</p>
       </div>
 
       <div className={styles.product__buttons}>
