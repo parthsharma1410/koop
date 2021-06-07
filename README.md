@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# KOOP!
+
+Koop is a shopping cart web application, implemented in Reactjs using Redux. Authentication is made possible using firebase.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
