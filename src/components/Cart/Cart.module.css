@@ -61,3 +61,17 @@
 .summary__checkoutBtn:hover {
   opacity: 0.75;
 }
+
+.btnsubmit {
+  margin-left: 12%;
+  margin-bottom: 5%;
+  border-radius: 5px;
+  border-style: none;
+  width: 15.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(112, 163, 221);
+  padding-left: 3%;
+  padding-right: 3%;
+  cursor: pointer;
+}

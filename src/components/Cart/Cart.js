@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from "./Cart.module.css";
-
+import { Link } from "react-router-dom";
 import { connect } from "react-redux";
 
 import CartItem from "./CartItem/CartItem";
@@ -35,9 +35,12 @@ const Cart = ({ cart }) => {
           <span>TOTAL: ({totalItems} items)</span>
           <span>Rs. {totalPrice}</span>
         </div>
-        <button className={styles.summary__checkoutBtn}>
+        <Link to='/purchase'>
+
+        <button className={styles.btnsubmit}>
           Proceed To Checkout
         </button>
+        </Link>
       </div>
     </div>
   );

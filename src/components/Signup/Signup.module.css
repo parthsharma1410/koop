@@ -1,0 +1,33 @@
+.flexbox {
+  display: flex;
+}
+
+.textcolumn {
+  flex-grow: 2;
+  margin-left: 36%;
+}
+
+.textcentre {
+  margin-left: 20%;
+}
+
+.textcentre2 {
+  margin-left: 12%;
+  padding-left: 1%;
+  padding-right: 8%;
+  margin-bottom: 2%;
+}
+
+.btnsubmit {
+  margin-left: 12%;
+  margin-bottom: 5%;
+  border-radius: 5px;
+  border-style: none;
+  width: 15.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(112, 163, 221);
+  padding-left: 3%;
+  padding-right: 3%;
+  cursor: pointer;
+}

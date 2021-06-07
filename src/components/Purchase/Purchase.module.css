@@ -1,0 +1,53 @@
+.flexbox {
+  display: flex;
+}
+
+.textcolumn {
+  flex-grow: 2;
+  margin-left: 36%;
+}
+
+.textcentre {
+  margin-left: 18%;
+}
+
+.textcentre2 {
+  margin-left: 14%;
+  padding-left: 1%;
+  padding-right: 8%;
+  margin-bottom: 2%;
+}
+
+.textcentre3 {
+  margin-left: 9%;
+  padding-left: 1%;
+  padding-right: 8%;
+  margin-bottom: 2%;
+}
+
+.btnsubmit {
+  margin-left: 14%;
+  margin-bottom: 5%;
+  border-radius: 5px;
+  border-style: none;
+  width: 15.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(112, 163, 221);
+  padding-left: 3%;
+  padding-right: 3%;
+  cursor: pointer;
+}
+
+.btnlogout {
+  margin-left: 4%;
+  border-radius: 5px;
+  border-style: none;
+  border-color: rgb(112, 163, 221);
+  width: 11rem;
+  border-style: solid;
+  height: 3rem;
+  color: rgb(112, 163, 221);
+  background-color: white;
+  cursor: pointer;
+}

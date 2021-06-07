@@ -5,3 +5,15 @@
   flex-direction: column;
   align-items: center;
 }
+
+.btnlogout {
+  border-radius: 5px;
+  border-style: none;
+  border-color: rgb(112, 163, 221);
+  width: 11rem;
+  border-style: solid;
+  height: 3rem;
+  color: rgb(112, 163, 221);
+  background-color: white;
+  cursor: pointer;
+}
