@@ -30,11 +30,11 @@ function App({ current }) {
           <Route exact path="/products" component={Products} />
           <Route exact path="/cart" component={Cart} />
           <Route exact path="/purchase" component={Purchase} />
-          {/* {!current ? (
-            <Redirect to="/" />
+          {!current ? (
+            <Redirect to="/products" />
           ) : (
             <Route exact path="/product/:id" component={SingleItem} />
-          )} */}
+          )}
         </Switch>
         </AuthProvider>
       </div>

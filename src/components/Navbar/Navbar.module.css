@@ -14,6 +14,7 @@
   font-weight: bold;
   color: rgb(101, 152, 247);
   padding-left: 35%;
+  font-family: "Montserrat", sans-serif;
 }
 
 .navbar__cart {
@@ -36,6 +37,7 @@
   font-size: 30px;
   font-weight: bold;
   color: rgb(101, 152, 247);
+  font-family: "Poppins", sans-serif;
 }
 
 .cart__image {
@@ -46,13 +48,13 @@
 }
 
 .cart__counter {
-  height: 40px;
-  width: 40px;
+  height: 60px;
+  width: 60px;
   border: 1px solid var(--secondary-color);
   border-radius: 50%;
   color: rgb(101, 152, 247);
   background: var(--light-color);
-  font-size: 25px;
+  font-size: 30px;
   display: flex;
   justify-content: center;
   align-items: center;

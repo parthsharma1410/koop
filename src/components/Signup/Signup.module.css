@@ -9,6 +9,7 @@
 
 .textcentre {
   margin-left: 20%;
+  font-family: "Montserrat", sans-serif;
 }
 
 .textcentre2 {
@@ -16,6 +17,7 @@
   padding-left: 1%;
   padding-right: 8%;
   margin-bottom: 2%;
+  font-family: "Poppins", sans-serif;
 }
 
 .btnsubmit {
@@ -23,11 +25,12 @@
   margin-bottom: 5%;
   border-radius: 5px;
   border-style: none;
-  width: 15.5rem;
+  width: 16rem;
   height: 3rem;
   color: white;
   background-color: rgb(112, 163, 221);
   padding-left: 3%;
   padding-right: 3%;
   cursor: pointer;
+  font-family: "Poppins", sans-serif;
 }
