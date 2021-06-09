@@ -4,7 +4,7 @@ Koop is a shopping cart web application, implemented in Reactjs using Redux. Aut
 
 ## UI-Screenshots
 
-![products](https://github.com/parthsharma1410/koop/blob/main/ui-screenshots/Prodcuts.png?raw=true)
+![products](https://github.com/parthsharma1410/koop/blob/main/ui-screenshots/Products.PNG?raw=true)
 ![cart](https://github.com/parthsharma1410/koop/blob/main/ui-screenshots/Cart.PNG?raw=true)
 ![singleItem](https://github.com/parthsharma1410/koop/blob/main/ui-screenshots/SingleItem.PNG?raw=true)
 
