@@ -2,6 +2,10 @@
 
 Koop is a shopping cart web application, implemented in Reactjs using Redux. Authentication is made possible using firebase.
 
+## UI-Screenshots
+
+![name-of-you-image](https://your-copied-image-address)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
